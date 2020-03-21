@@ -1,0 +1,44 @@
+
+.navbar{
+	background-color: #ffff00;
+	text-shadow: 0px 0px 0px grey; 
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.navbar-brand:hover{
+	background-color: white;
+}
+
+.nav-link:hover{
+	background-color: white;
+}
+
+
+.navbar-brand,.nav-link {
+	color: #005ce6;
+}
+
+.nav-item{
+
+}
+
+.row{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.flyersbench{
+	transform: rotate(180deg);
+}
+
+
+
+.card-img-top{
+	margin-top: 14px;
+}
+
+.btn-default{
+	
+	color: #005ce6;
+}
